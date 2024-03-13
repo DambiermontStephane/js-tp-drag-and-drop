@@ -261,8 +261,7 @@ li {
     width: 5rem;
     margin-top: 1rem;
     text-align: center;
+    border: 3px solid transparent;
 }
 
-.alert {
-    display: none;
-}
+
